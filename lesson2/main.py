@@ -24,7 +24,7 @@ print(a[1])
 print("\nExercitiul 6")
 a = ['a','b','c','d']
 #6.1
-print(a[int('3'*2)//11])
+print(a[int(int('3'*2)//11)])
 # raspunsul este d
 
 #6.2
